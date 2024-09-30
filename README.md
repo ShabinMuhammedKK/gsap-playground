@@ -1,2 +1,0 @@
-# gsap-playground
-Oh yeah!..
