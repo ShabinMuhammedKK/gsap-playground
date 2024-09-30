@@ -49,7 +49,6 @@ function page2animation(){
         scrollTrigger:{
             trigger:".section2",
             scroller:"body",
-            markers:true,
             start:"top 50%",
             end:"top 0",
             scrub:2
